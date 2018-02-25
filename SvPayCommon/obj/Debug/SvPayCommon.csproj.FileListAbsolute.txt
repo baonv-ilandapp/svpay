@@ -1,0 +1,6 @@
+G:\BaoNV\KhoaLuanTotNghiep\svpay\SvPayCommon\bin\Debug\SvPayCommon.dll
+G:\BaoNV\KhoaLuanTotNghiep\svpay\SvPayCommon\bin\Debug\SvPayCommon.pdb
+G:\BaoNV\KhoaLuanTotNghiep\svpay\SvPayCommon\obj\Debug\SvPayCommon.csproj.CoreCompileInputs.cache
+G:\BaoNV\KhoaLuanTotNghiep\svpay\SvPayCommon\obj\Debug\SvPayCommon.dll
+G:\BaoNV\KhoaLuanTotNghiep\svpay\SvPayCommon\obj\Debug\SvPayCommon.pdb
+G:\BaoNV\KhoaLuanTotNghiep\svpay\SvPayCommon\obj\Debug\SvPayCommon.csprojResolveAssemblyReference.cache
